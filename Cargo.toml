@@ -1,0 +1,8 @@
+[package]
+name = "boombox"
+version = "0.0.0"
+authors = ["Garrett Howard <garrett@mersh.com>"]
+edition = "2021"
+
+[dependencies]
+gtk = { version = "0.4", package = "gtk4" }
